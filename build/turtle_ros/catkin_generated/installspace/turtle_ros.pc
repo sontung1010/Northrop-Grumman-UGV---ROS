@@ -1,0 +1,8 @@
+prefix=/home/st/ros_ws/install
+
+Name: turtle_ros
+Description: Description of turtle_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
