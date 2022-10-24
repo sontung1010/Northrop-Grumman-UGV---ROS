@@ -7,3 +7,4 @@
 subdirs("gtest")
 subdirs("beginner_tutorials")
 subdirs("ros_tutorial")
+subdirs("turtle_control")
