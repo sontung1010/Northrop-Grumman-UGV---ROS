@@ -1,8 +1,8 @@
-prefix=/home/st/ros_ws/devel
+prefix=/home/st/Northrop-Grumman-UGV---ROS/devel
 
 Name: ros_tutorial
 Description: Description of ros_tutorial
 Version: 0.0.0
-Cflags: -I/home/st/ros_ws/devel/include
+Cflags: -I/home/st/Northrop-Grumman-UGV---ROS/devel/include
 Libs: -L${prefix}/lib 
 Requires: rospy std_msgs message_runtime

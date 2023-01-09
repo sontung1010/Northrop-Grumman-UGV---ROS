@@ -1,4 +1,4 @@
-prefix=/home/st/ros_ws/install
+prefix=/home/st/Northrop-Grumman-UGV---ROS/install
 
 Name: turtle_control
 Description: Description of turtle_control

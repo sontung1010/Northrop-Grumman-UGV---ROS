@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "beginner_tutorials"
-PROJECT_SPACE_DIR = "/home/st/ros_ws/devel"
+PROJECT_SPACE_DIR = "/home/st/Northrop-Grumman-UGV---ROS/devel"
 PROJECT_VERSION = "0.0.0"
