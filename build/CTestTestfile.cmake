@@ -7,4 +7,5 @@
 subdirs("gtest")
 subdirs("beginner_tutorials")
 subdirs("ros_tutorial")
+subdirs("my_robot_controller")
 subdirs("turtle_control")

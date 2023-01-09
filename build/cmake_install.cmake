@@ -133,6 +133,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/st/ros_ws/build/gtest/cmake_install.cmake")
   include("/home/st/ros_ws/build/beginner_tutorials/cmake_install.cmake")
   include("/home/st/ros_ws/build/ros_tutorial/cmake_install.cmake")
+  include("/home/st/ros_ws/build/my_robot_controller/cmake_install.cmake")
   include("/home/st/ros_ws/build/turtle_control/cmake_install.cmake")
 
 endif()
